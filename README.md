@@ -13,11 +13,7 @@ To build a multi-page HTML website with:
 - Image embedding with proper alt text
 - Clear sectioning of content using semantic tags
 
----
 
-## 📂 Project Structure
-
----
 
 ## 🧠 What You’ll Learn
 
